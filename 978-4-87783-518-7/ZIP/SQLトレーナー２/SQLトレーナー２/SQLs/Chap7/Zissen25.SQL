@@ -1,0 +1,3 @@
+SELECT NAME, '‚³‚ñ‚Ì”N—î‚Í', AGE, 'Ë‚Å‚·D' 
+FROM STAFF_LIST
+
